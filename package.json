@@ -1,0 +1,23 @@
+{
+  "name": "gm-transform-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for transforming images with GraphicsMagick or ImageMagick",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-lange/gm-transform-loader.git"
+  },
+  "author": "Kolja Lange",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k-lange/gm-transform-loader/issues"
+  },
+  "homepage": "https://github.com/k-lange/gm-transform-loader#readme",
+  "dependencies": {
+    "gm": "^1.21.1",
+    "loader-utils": "^0.2.11"
+  }
+}
